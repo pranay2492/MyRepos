@@ -14,7 +14,7 @@ public class AppTest {
 	@Test
 	public void testshow() {
 		int i=10;
-		System.out.print("value is :"+i);
+		System.out.print("value of i is :"+i);
 	}
 	
 }
