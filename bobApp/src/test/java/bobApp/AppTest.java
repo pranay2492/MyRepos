@@ -17,4 +17,10 @@ public class AppTest {
 		System.out.print("value of i is :"+i);
 	}
 	
+	@Test
+	public void testshow1() {
+		int i=11;
+		System.out.print("value of i is :"+i);
+	}
+	
 }
