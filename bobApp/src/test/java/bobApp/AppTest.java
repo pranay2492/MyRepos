@@ -13,7 +13,7 @@ public class AppTest {
 	
 	@Test
 	public void testshow() {
-		int i=50;
+		int i=500;
 		System.out.print("value of i is :"+i);
 	}
 	
